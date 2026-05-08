@@ -4,7 +4,7 @@ Dashboard interactivo de ventas 2024 - Electrónica y Oficina (Power BI)
 
 Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países de Europa (Francia, Alemania, Italia, Países Bajos, Portugal y España).
 
-![Vista principal](capturas/Captura de pantalla 2026-05-08 115452.png)
+![Vista principal](capturas/1.png)
 
 ## Características principales
 
