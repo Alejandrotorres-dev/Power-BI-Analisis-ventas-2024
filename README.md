@@ -30,4 +30,4 @@ Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países
 1. Descarga el archivo en Enlace al archivo
 2. Ábrelo con **Power BI Desktop** 
 ## Enlace al archivo
-[Descarga](Analisis_Alejandro_Torres)
+[Descarga](Analisis_Alejandro_Torres.pbix)
