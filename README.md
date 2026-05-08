@@ -28,8 +28,6 @@ Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países
 ## Cómo usar el proyecto
 
 1. Descarga el archivo `Ventas_Europa_2024.pbix`
-2. Ábrelo con **Power BI Desktop** (gratuito)
-3. Explora los filtros e interactúa con el dashboard
-
+2. Ábrelo con **Power BI Desktop** 
 ## Enlace al archivo
-[Descargar .pbix](nombre-de-tu-archivo.pbix)
+[Descargar .pbix](project2)
