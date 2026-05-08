@@ -22,7 +22,7 @@ Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países
 
 ## Capturas del Dashboard
 
-![Vista principal](capturas/2.png)
+![Vista principal](capturas/12.png)
 ![Página 2](capturas/3.png)
 ![Página 2](capturas/4.png)
 
