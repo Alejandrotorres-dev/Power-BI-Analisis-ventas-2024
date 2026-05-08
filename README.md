@@ -1,4 +1,4 @@
-# analisis-ventas-2024-powerbi
+
 Dashboard interactivo de ventas 2024 - Electrónica y Oficina (Power BI)
 # Análisis de Ventas Europa 2024 - Power BI
 
