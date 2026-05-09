@@ -2,7 +2,7 @@
 Dashboard interactivo de ventas 2024 - Electrónica y Oficina (Power BI)
 # Análisis de Ventas Europa 2024 - Power BI
 
-Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países de Europa (Francia, Alemania, Italia, Países Bajos, Portugal y España).
+Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países de Europa (Francia, Alemania, Italia, Países Bajos, Portugal y España). Reporte refleja las ventas de productos electrónicos y de oficina realizadas a través de la plataforma.
 
 ![Vista principal](capturas/11.png)
 
