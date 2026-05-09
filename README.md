@@ -25,7 +25,7 @@ Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países
 - Power BI Desktop
 - DAX
 - Power Query
-- Mapas personalizados
+- Azure Maps
 
 ## Capturas del Dashboard
 
