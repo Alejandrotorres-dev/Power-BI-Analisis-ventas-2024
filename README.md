@@ -31,8 +31,3 @@ Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países
 
 ![Página 2](capturas/3.png)
 ![Página 2](capturas/4.png)
-
-## Cómo usar el proyecto
-
-1. Descarga el archivo en Enlace al archivo
-2. Ábrelo con **Power BI Desktop** 
