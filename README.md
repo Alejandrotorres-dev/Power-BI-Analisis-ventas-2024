@@ -11,7 +11,7 @@ Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países
    
 [Descarga](Analisis_Alejandro_Torres.pbix)
 
-![Vista principal](capturas/11.png)
+![Vista principal](capturas/20.png)
 
 ## Características principales
 
@@ -29,5 +29,5 @@ Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países
 
 ## Capturas del Dashboard
 
-![Página 2](capturas/3.png)
-![Página 2](capturas/16.png)
+![Página 2](capturas/21.png)
+![Página 2](capturas/22.png)
