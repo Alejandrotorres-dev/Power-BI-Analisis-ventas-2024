@@ -19,7 +19,7 @@ Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países
 - Top productos más vendidos
 - Análisis de vendedores por edad y género
 - Evolución temporal de ventas
-- Filtros interactivos por categoría, país, etc.
+- Filtros interactivos en cada una de las páginas
 
 ## Tecnologías utilizadas
 - Power BI Desktop
