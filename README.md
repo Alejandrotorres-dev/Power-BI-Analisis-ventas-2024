@@ -6,7 +6,7 @@ Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países
 
 ## Cómo usar el proyecto
 
-1. Descarga el archivo
+1. Descarga el archivo o mira las capturas de esta página.
 2. Ábrelo con **Power BI Desktop**
    
 [Descarga](Analisis_Alejandro_Torres.pbix)
