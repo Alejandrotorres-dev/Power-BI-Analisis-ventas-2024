@@ -1,6 +1,6 @@
 
 Dashboard interactivo de ventas 2024 - Electrónica y Oficina (Power BI)
-# Análisis de Ventas con Paypal Europa 2024 - Power BI
+# Dashboard : Análisis de Ventas con Paypal Europa 2024 - Power BI
 
 Dashboard interactivo para el análisis de **9 millones de ventas** en 6 países de Europa (Francia, Alemania, Italia, Países Bajos, Portugal y España). El reporte refleja las ventas de productos electrónicos y de oficina realizadas a través de la plataforma PayPal.
 
